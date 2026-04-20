@@ -21,3 +21,6 @@ langchain-google-genai
 google-generativeai
 streamlit
 langchain_groq
+fastapi
+uvicorn
+langserve
