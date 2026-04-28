@@ -23,3 +23,5 @@ langchain_groq
 fastapi
 uvicorn
 langserve
+sqlalchemy
+mysql-connector-python
