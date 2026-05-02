@@ -25,3 +25,7 @@ uvicorn
 langserve
 sqlalchemy
 mysql-connector-python
+validators
+youtube_transcript_api
+pytube
+langchain_huggingface
