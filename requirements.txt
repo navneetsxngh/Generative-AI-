@@ -29,3 +29,8 @@ validators
 youtube_transcript_api
 pytube
 langchain_huggingface
+pinecone
+pinecone-client
+pinecone-text
+pinecone-notebooks
+langchain_nvidia_ai_endpoints
